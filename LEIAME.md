@@ -2,13 +2,12 @@ ESTRUTURA
 
 biblioteca/
 │
-├─ app.py             # Seu servidor Flask
+├─ app.py             # Seu servidor Flask   
 ├─ biblioteca.db      # Banco SQLite
 ├─ init_db.py         # Script para criar o banco
 ├─ requirements.txt   # Dependências do projeto
 └─ static/
    └─ index.html      # Seu HTML atualizado
-
 
 PASSO A PASSO
 - verifique se o python está instalado 
